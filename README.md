@@ -1,18 +1,20 @@
 # TodoApp
+
 Project Name: TodoApp - Your Ultimate Todo App
 
 Description:
+
 TodoApp is a feature-rich and user-friendly Todo app designed to help you stay organized and on top of your tasks and responsibilities. With TodoApp, managing your daily agenda, projects, and personal goals has never been easier.
 
 Key Features:
 
-1. Create and Organize Tasks: TaskMaster allows you to effortlessly create and categorize tasks. Whether it's a simple to-do, a critical project milestone, or a personal goal, you can create tasks with ease.
+1. Create and Organize Tasks: TodoApp allows you to effortlessly create and categorize tasks. Whether it's a simple to-do, a critical project milestone, or a personal goal, you can create tasks with ease.
 
-2. Update Tasks: Keep your tasks up to date by editing their details. You can change due dates, descriptions, priorities, and more, ensuring that your tasks accurately reflect your current needs.
+2. Update Tasks: Keep your tasks up to date by editing their details.
 
-3. Delete Tasks: If a task is no longer relevant, TaskMaster lets you delete it, ensuring that your task list remains clutter-free and focused on what matters most.
+3. Delete Tasks: If a task is no longer relevant, TodoApp lets you delete it, ensuring that your task list remains clutter-free and focused on what matters most.
 
-4. Mark Tasks as Completed: Celebrate your accomplishments by marking tasks as completed. TaskMaster allows you to track your progress and see how much you've achieved.
+4. Mark Tasks as Completed: Celebrate your accomplishments by marking tasks as completed. TodoApp allows you to track your progress and see how much you've achieved.
 
 
 # Run the server with:
